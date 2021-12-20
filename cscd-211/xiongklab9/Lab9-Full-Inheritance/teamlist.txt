@@ -1,0 +1,22 @@
+Seattle
+2
+Football, Seattle Seahawks
+3
+Russell Wilson, 543-34-9965, 22000000, Quarterback, 120, 3
+Arthur Copperpants, 992-32-1111, 1500000, Running Back, 17, 14
+Peter Piper, 523-55-9911, 300000, Receiver, 8, 81
+Baseball, Seattle Mariners
+2
+Joe Schmoe, 222-33-9823, 3000000, Catcher, .245
+Martin Olsen, 234-23-1895, 10000000, Pitcher, .362
+Pittsburgh
+2
+Hockey, Pittsburgh Penguins
+3
+Sydney Crosby, 111-33-4444, 90000000, Centre, 87
+Ian Cole, 888-77-6666, 200000, Defense, 28
+Phil Kessel, 555-11-6666, 1000000, Right Wing, 81
+Football, Pittsburgh Steelers
+2
+Ben Roethlisberger, 123-45-6789, 20000000, Quarterback, 99, 7
+Keion Adams, 123-46-9876, 100000, Linebacker, 2, 99

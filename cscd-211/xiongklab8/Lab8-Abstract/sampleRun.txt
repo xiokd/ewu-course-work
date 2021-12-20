@@ -1,0 +1,45 @@
+ 
+  ----jGRASP exec: java lab8.cscd211lab8.CSCD211Lab8
+ Employee List
+ Programmer: Mr. Ima Nerd
+ Programmer: Mrs. Ima Nerd
+ Accountant: Mr. Bean Counter
+ Accountant: Mrs. Bean Counter
+ Lawyer: Mr. Lawyer
+ Lawyer: Mrs. Lawyer
+ 
+ Employee Report
+ I am a Programmer.  I get 60000.0,  and I get a bus pass.
+ I am a Programmer.  I get 65000.0,  and I do not get a bus pass.
+ I am an Accountant.  I make 100000.0 plus a parking allowance of 50.0
+ I am an Accountant.  I make 75000.0 plus a parking allowance of 150.0
+ I am a Lawyer.  I get 180000.0,  and I have 25 shares of stock.
+ I am a Lawyer.  I get 190000.0,  and I have 125 shares of stock.
+ 
+ Employee List: Natural Order
+ Accountant - Mrs. Bean Counter - 75000.0
+ Accountant - Mr. Bean Counter - 100000.0
+ Lawyer - Mr. Lawyer - 180000.0
+ Lawyer - Mrs. Lawyer - 190000.0
+ Programmer - Mr. Ima Nerd - 60000.0
+ Programmer - Mrs. Ima Nerd - 65000.0
+ 
+ Employee List by Salary
+ Programmer - Mr. Ima Nerd - 60000.0
+ Programmer - Mrs. Ima Nerd - 65000.0
+ Accountant - Mrs. Bean Counter - 75000.0
+ Accountant - Mr. Bean Counter - 100000.0
+ Lawyer - Mr. Lawyer - 180000.0
+ Lawyer - Mrs. Lawyer - 190000.0
+ 
+ Employee List by Name
+ Accountant - Mr. Bean Counter - 100000.0
+ Programmer - Mr. Ima Nerd - 60000.0
+ Lawyer - Mr. Lawyer - 180000.0
+ Accountant - Mrs. Bean Counter - 75000.0
+ Programmer - Mrs. Ima Nerd - 65000.0
+ Lawyer - Mrs. Lawyer - 190000.0
+ 
+ 
+  ----jGRASP: operation complete.
+ 

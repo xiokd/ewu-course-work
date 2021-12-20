@@ -1,0 +1,308 @@
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y lab5.cscd211lab5.CSCD211Lab5
+  ----jGRASP: connected to debugger.
+ Please enter an integer: 1
+ Please enter an integer: 3
+ Please enter an integer: 2
+ Please enter an integer: 3
+ Please enter an integer: 4
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 2
+ Please enter an integer: 8
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 1
+ 4 3 2 3 1 8 
+ 
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 3
+ Please enter an integer: 9
+ Please enter an integer: 3
+ Please enter an integer: 3
+ Please enter the Index value: 3
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 1
+ 4 3 2 3 3 9 3 1 8 
+ 
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 4
+ Please enter the Index value: 5
+ The results of get 9
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 5
+ The results of getLast 8
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 6
+ The results of remove 4
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 1
+ 3 2 3 3 9 3 1 8 
+ 
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 7
+ Please enter the Index value: 6
+ The results of remove 1
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 1
+ 3 2 3 3 9 3 8 
+ 
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 8
+ The results of removeLast 8
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 1
+ 3 2 3 3 9 3 
+ 
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 9
+ 3 2 3 3 9 3 
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 10
+ Please enter an integer: 3
+ The results of removeAllOccurrences true
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 1
+ 2 9 
+ 
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 10
+ Please enter an integer: 7
+ The results of removeAllOccurrences false
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 11
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 1
+ Empty list
+ Enter a menu choice:
+ 1) Print the list
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrances
+ 11) Clear the list
+ 12) Quit
+ Choice --> 12
+ Program ending
+ 
+  ----jGRASP: operation complete.
+ 

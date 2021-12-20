@@ -1,0 +1,113 @@
+ 
+  ----jGRASP exec: java lab2.cscd211lab2.CSCD211Lab2
+ Please enter the name of the file people.txt
+ Please choose from the following
+ 1) Print the Array to the screen
+ 2) Display all people that contain a certain color
+ 3) Sort the array by Color
+ 4) Sort the array by the natural order
+ 5) Quit
+ Choice --> 1
+ 
+ faith hillstrom, PURPLE
+ 
+ sally sue sullivan, GREEN
+ 
+ bubba von bigbelly, PURPLE
+ 
+ Please choose from the following
+ 1) Print the Array to the screen
+ 2) Display all people that contain a certain color
+ 3) Sort the array by Color
+ 4) Sort the array by the natural order
+ 5) Quit
+ Choice --> 2
+ 
+ Please enter a color: blue
+ Please choose from the following
+ 1) Print the Array to the screen
+ 2) Display all people that contain a certain color
+ 3) Sort the array by Color
+ 4) Sort the array by the natural order
+ 5) Quit
+ Choice --> 2
+ 
+ Please enter a color: green
+ sally sue sullivan, GREEN
+ 
+ Please choose from the following
+ 1) Print the Array to the screen
+ 2) Display all people that contain a certain color
+ 3) Sort the array by Color
+ 4) Sort the array by the natural order
+ 5) Quit
+ Choice --> 2
+ 
+ Please enter a color: purple
+ faith hillstrom, PURPLE
+ 
+ bubba von bigbelly, PURPLE
+ 
+ Please choose from the following
+ 1) Print the Array to the screen
+ 2) Display all people that contain a certain color
+ 3) Sort the array by Color
+ 4) Sort the array by the natural order
+ 5) Quit
+ Choice --> 3
+ 
+ Please choose from the following
+ 1) Print the Array to the screen
+ 2) Display all people that contain a certain color
+ 3) Sort the array by Color
+ 4) Sort the array by the natural order
+ 5) Quit
+ Choice --> 1
+ 
+ sally sue sullivan, GREEN
+ 
+ faith hillstrom, PURPLE
+ 
+ bubba von bigbelly, PURPLE
+ 
+ Please choose from the following
+ 1) Print the Array to the screen
+ 2) Display all people that contain a certain color
+ 3) Sort the array by Color
+ 4) Sort the array by the natural order
+ 5) Quit
+ Choice --> 4
+ 
+ Please choose from the following
+ 1) Print the Array to the screen
+ 2) Display all people that contain a certain color
+ 3) Sort the array by Color
+ 4) Sort the array by the natural order
+ 5) Quit
+ Choice --> 1
+ 
+ faith hillstrom, PURPLE
+ 
+ sally sue sullivan, GREEN
+ 
+ bubba von bigbelly, PURPLE
+ 
+ Please choose from the following
+ 1) Print the Array to the screen
+ 2) Display all people that contain a certain color
+ 3) Sort the array by Color
+ 4) Sort the array by the natural order
+ 5) Quit
+ Choice --> 2
+ 
+ Please enter a color: Gray
+ Exception in thread "main" java.lang.IllegalArgumentException: No enum constant lab2.cscd211enums.Color.GRAY
+ 	at java.base/java.lang.Enum.valueOf(Enum.java:240)
+ 	at lab2.cscd211enums.Color.valueOf(Color.java:3)
+ 	at lab2.cscd211methods.CSCD211Lab2Methods.convertColor(CSCD211Lab2Methods.java:13)
+ 	at lab2.cscd211methods.CSCD211Lab2Methods.readColor(CSCD211Lab2Methods.java:116)
+ 	at lab2.cscd211lab2.CSCD211Lab2.main(CSCD211Lab2.java:47)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 

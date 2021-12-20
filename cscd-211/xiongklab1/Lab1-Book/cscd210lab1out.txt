@@ -1,0 +1,187 @@
+ 
+  ----jGRASP exec: java lab1.cscd210lab1.CSCD210Lab1
+ Please enter the name of the file: books.txt
+ Please choose from the following
+ 1) Print the books to the screen
+ 2) Print the books to a file
+ 3) Sort the books based on natural order
+ 4) Sort the books based on total order
+ 5) Add a new book to the bookshelf
+ 6) Search the bookshelf for a book
+ 7) Quit
+ Choice --> 1
+ 
+ Title: Operating Systems Concepts
+ Author: Siblerschatz
+ ISBN: 978048012874
+ Pages: 972
+ 
+ Title: Java Programming
+ Author: Farrell
+ ISBN: 9781285856919
+ Pages: 994
+ 
+ Title: Operating Systems Concepts
+ Author: Siblerschatz
+ ISBN: 9781119299677
+ Pages: 1006
+ 
+ Title: Operating Systems Concepts
+ Author: Siblerschatz
+ ISBN: 9780470128725
+ Pages: 972
+ 
+ Please choose from the following
+ 1) Print the books to the screen
+ 2) Print the books to a file
+ 3) Sort the books based on natural order
+ 4) Sort the books based on total order
+ 5) Add a new book to the bookshelf
+ 6) Search the bookshelf for a book
+ 7) Quit
+ Choice --> 2
+ 
+ Please enter the output filename booksout.txt
+ Please choose from the following
+ 1) Print the books to the screen
+ 2) Print the books to a file
+ 3) Sort the books based on natural order
+ 4) Sort the books based on total order
+ 5) Add a new book to the bookshelf
+ 6) Search the bookshelf for a book
+ 7) Quit
+ Choice --> 3
+ 
+ Please choose from the following
+ 1) Print the books to the screen
+ 2) Print the books to a file
+ 3) Sort the books based on natural order
+ 4) Sort the books based on total order
+ 5) Add a new book to the bookshelf
+ 6) Search the bookshelf for a book
+ 7) Quit
+ Choice --> 4
+ 
+ Please choose from the following
+ 1) Print the books to the screen
+ 2) Print the books to a file
+ 3) Sort the books based on natural order
+ 4) Sort the books based on total order
+ 5) Add a new book to the bookshelf
+ 6) Search the bookshelf for a book
+ 7) Quit
+ Choice --> 5
+ 
+ Please enter the title of the book: Code Book
+ Please enter the ISBN: 1231231231234
+ Please enter the number of pages: 1005
+ Please enter the author: Appleseed
+ Please choose from the following
+ 1) Print the books to the screen
+ 2) Print the books to a file
+ 3) Sort the books based on natural order
+ 4) Sort the books based on total order
+ 5) Add a new book to the bookshelf
+ 6) Search the bookshelf for a book
+ 7) Quit
+ Choice --> 1
+ 
+ Title: Operating Systems Concepts
+ Author: Siblerschatz
+ ISBN: 9780470128725
+ Pages: 972
+ 
+ Title: Operating Systems Concepts
+ Author: Siblerschatz
+ ISBN: 978048012874
+ Pages: 972
+ 
+ Title: Operating Systems Concepts
+ Author: Siblerschatz
+ ISBN: 9781119299677
+ Pages: 1006
+ 
+ Title: Java Programming
+ Author: Farrell
+ ISBN: 9781285856919
+ Pages: 994
+ 
+ Title: Code Book
+ Author: Appleseed
+ ISBN: 1231231231234
+ Pages: 1005
+ 
+ Please choose from the following
+ 1) Print the books to the screen
+ 2) Print the books to a file
+ 3) Sort the books based on natural order
+ 4) Sort the books based on total order
+ 5) Add a new book to the bookshelf
+ 6) Search the bookshelf for a book
+ 7) Quit
+ Choice --> 3
+ 
+ Please choose from the following
+ 1) Print the books to the screen
+ 2) Print the books to a file
+ 3) Sort the books based on natural order
+ 4) Sort the books based on total order
+ 5) Add a new book to the bookshelf
+ 6) Search the bookshelf for a book
+ 7) Quit
+ Choice --> 1
+ 
+ Title: Code Book
+ Author: Appleseed
+ ISBN: 1231231231234
+ Pages: 1005
+ 
+ Title: Java Programming
+ Author: Farrell
+ ISBN: 9781285856919
+ Pages: 994
+ 
+ Title: Operating Systems Concepts
+ Author: Siblerschatz
+ ISBN: 9780470128725
+ Pages: 972
+ 
+ Title: Operating Systems Concepts
+ Author: Siblerschatz
+ ISBN: 978048012874
+ Pages: 972
+ 
+ Title: Operating Systems Concepts
+ Author: Siblerschatz
+ ISBN: 9781119299677
+ Pages: 1006
+ 
+ Please choose from the following
+ 1) Print the books to the screen
+ 2) Print the books to a file
+ 3) Sort the books based on natural order
+ 4) Sort the books based on total order
+ 5) Add a new book to the bookshelf
+ 6) Search the bookshelf for a book
+ 7) Quit
+ Choice --> 6
+ 
+ Please enter the title of the book: code book
+ Please enter the ISBN: 1231231231234
+ Please enter the number of pages: 1005
+ Please enter the author: Appleseed
+ Book was not found
+ Please choose from the following
+ 1) Print the books to the screen
+ 2) Print the books to a file
+ 3) Sort the books based on natural order
+ 4) Sort the books based on total order
+ 5) Add a new book to the bookshelf
+ 6) Search the bookshelf for a book
+ 7) Quit
+ Choice --> 7
+ 
+ Program Ending
+ 
+  ----jGRASP: operation complete.
+ 

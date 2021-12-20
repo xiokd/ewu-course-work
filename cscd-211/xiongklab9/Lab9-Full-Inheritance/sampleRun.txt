@@ -1,0 +1,162 @@
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y CSCD211S20Exam1CompositionMain
+  ----jGRASP: connected to debugger.
+ 
+ 
+  ----jGRASP: process ended by user.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y CSCD211S20Exam1CompositionMain
+  ----jGRASP: connected to debugger.
+ 
+ 
+  ----jGRASP: process ended by user.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y CSCD211S20Exam1CompositionMain
+  ----jGRASP: connected to debugger.
+ 
+ 
+  ----jGRASP: process ended by user.
+ 
+  ----jGRASP exec: java lab9.cscd211lab9.CSCD211Lab9
+ Please enter the name of the input file teamlist.txt
+ The number of teams is: 4
+ 
+ Please choose from the following
+ 1) Print all Teams
+ 2) Sort all Teams by city and team name
+ 3) Sort all Teams by Payroll
+ 4) Exit program
+ Choice --> 1
+ 
+ [Seattle - Seattle Seahawks
+ Payroll: 25300000
+ Taxes: 2142000.0
+ PLAYER NAME      SSN          SALARY      POSITION       STATS        NUMBER
+ ----------------------------------------------------------------------------
+ Russell Wilson 543-34-9965 22000000 Quarterback	Touchdowns 120	3
+ Arthur Copperpants 992-32-1111 1500000 Running Back	Touchdowns 17	14
+ Peter Piper 523-55-9911 300000 Receiver	Touchdowns 8	81
+ 
+ , Seattle - Seattle Mariners
+ Payroll: 14500000
+ Taxes: 1170000.0
+ PLAYER NAME      SSN          SALARY      POSITION       STATS        NUMBER
+ ----------------------------------------------------------------------------
+ Joe Schmoe 222-33-9823 3000000 Catcher	Batting Avg: 0.245
+ Martin Olsen 234-23-1895 10000000 Pitcher	Batting Avg: 0.362
+ 
+ , Pittsburgh - Pittsburgh Penguins
+ Payroll: 92700000
+ Taxes: 8188000.0
+ PLAYER NAME      SSN          SALARY      POSITION       STATS        NUMBER
+ ----------------------------------------------------------------------------
+ Sydney Crosby 111-33-4444 90000000 Centre		87
+ Ian Cole 888-77-6666 200000 Defense		28
+ Phil Kessel 555-11-6666 1000000 Right Wing		81
+ 
+ , Pittsburgh - Pittsburgh Steelers
+ Payroll: 21600000
+ Taxes: 1799000.0
+ PLAYER NAME      SSN          SALARY      POSITION       STATS        NUMBER
+ ----------------------------------------------------------------------------
+ Ben Roethlisberger 123-45-6789 20000000 Quarterback	Touchdowns 99	7
+ Keion Adams 123-46-9876 100000 Linebacker	Touchdowns 2	99
+ 
+ ]
+ 
+ Please choose from the following
+ 1) Print all Teams
+ 2) Sort all Teams by city and team name
+ 3) Sort all Teams by Payroll
+ 4) Exit program
+ Choice --> 2
+ 
+ [Pittsburgh - Pittsburgh Penguins
+ Payroll: 92700000
+ Taxes: 8188000.0
+ PLAYER NAME      SSN          SALARY      POSITION       STATS        NUMBER
+ ----------------------------------------------------------------------------
+ Sydney Crosby 111-33-4444 90000000 Centre		87
+ Ian Cole 888-77-6666 200000 Defense		28
+ Phil Kessel 555-11-6666 1000000 Right Wing		81
+ 
+ , Pittsburgh - Pittsburgh Steelers
+ Payroll: 21600000
+ Taxes: 1799000.0
+ PLAYER NAME      SSN          SALARY      POSITION       STATS        NUMBER
+ ----------------------------------------------------------------------------
+ Ben Roethlisberger 123-45-6789 20000000 Quarterback	Touchdowns 99	7
+ Keion Adams 123-46-9876 100000 Linebacker	Touchdowns 2	99
+ 
+ , Seattle - Seattle Mariners
+ Payroll: 14500000
+ Taxes: 1170000.0
+ PLAYER NAME      SSN          SALARY      POSITION       STATS        NUMBER
+ ----------------------------------------------------------------------------
+ Joe Schmoe 222-33-9823 3000000 Catcher	Batting Avg: 0.245
+ Martin Olsen 234-23-1895 10000000 Pitcher	Batting Avg: 0.362
+ 
+ , Seattle - Seattle Seahawks
+ Payroll: 25300000
+ Taxes: 2142000.0
+ PLAYER NAME      SSN          SALARY      POSITION       STATS        NUMBER
+ ----------------------------------------------------------------------------
+ Russell Wilson 543-34-9965 22000000 Quarterback	Touchdowns 120	3
+ Arthur Copperpants 992-32-1111 1500000 Running Back	Touchdowns 17	14
+ Peter Piper 523-55-9911 300000 Receiver	Touchdowns 8	81
+ 
+ ]
+ 
+ Please choose from the following
+ 1) Print all Teams
+ 2) Sort all Teams by city and team name
+ 3) Sort all Teams by Payroll
+ 4) Exit program
+ Choice --> 3
+ 
+ [Seattle - Seattle Mariners
+ Payroll: 14500000
+ Taxes: 1170000.0
+ PLAYER NAME      SSN          SALARY      POSITION       STATS        NUMBER
+ ----------------------------------------------------------------------------
+ Joe Schmoe 222-33-9823 3000000 Catcher	Batting Avg: 0.245
+ Martin Olsen 234-23-1895 10000000 Pitcher	Batting Avg: 0.362
+ 
+ , Pittsburgh - Pittsburgh Steelers
+ Payroll: 21600000
+ Taxes: 1799000.0
+ PLAYER NAME      SSN          SALARY      POSITION       STATS        NUMBER
+ ----------------------------------------------------------------------------
+ Ben Roethlisberger 123-45-6789 20000000 Quarterback	Touchdowns 99	7
+ Keion Adams 123-46-9876 100000 Linebacker	Touchdowns 2	99
+ 
+ , Seattle - Seattle Seahawks
+ Payroll: 25300000
+ Taxes: 2142000.0
+ PLAYER NAME      SSN          SALARY      POSITION       STATS        NUMBER
+ ----------------------------------------------------------------------------
+ Russell Wilson 543-34-9965 22000000 Quarterback	Touchdowns 120	3
+ Arthur Copperpants 992-32-1111 1500000 Running Back	Touchdowns 17	14
+ Peter Piper 523-55-9911 300000 Receiver	Touchdowns 8	81
+ 
+ , Pittsburgh - Pittsburgh Penguins
+ Payroll: 92700000
+ Taxes: 8188000.0
+ PLAYER NAME      SSN          SALARY      POSITION       STATS        NUMBER
+ ----------------------------------------------------------------------------
+ Sydney Crosby 111-33-4444 90000000 Centre		87
+ Ian Cole 888-77-6666 200000 Defense		28
+ Phil Kessel 555-11-6666 1000000 Right Wing		81
+ 
+ ]
+ 
+ Please choose from the following
+ 1) Print all Teams
+ 2) Sort all Teams by city and team name
+ 3) Sort all Teams by Payroll
+ 4) Exit program
+ Choice --> 4
+ Exiting
+ 
+  ----jGRASP: operation complete.
+ 

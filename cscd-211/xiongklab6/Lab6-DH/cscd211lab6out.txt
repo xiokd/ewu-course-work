@@ -1,0 +1,705 @@
+ 
+  ----jGRASP exec: java lab6.cscd211lab6.CSCD211Lab6
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 1
+ Empty list
+ 
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 2
+ Please enter a String: java
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 2
+ Please enter a String: python
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 1
+ python java 
+ 
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 3
+ Please enter a String: ruby
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 1
+ python java ruby 
+ 
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 12
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 1
+ Empty list
+ 
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 3
+ Please enter a String: python
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 1
+ python 
+ 
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 2
+ Please enter a String: java
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 2
+ Please enter a String: ruby
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 2
+ Please enter a String: code
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 2
+ Please enter a String: line
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 2
+ Please enter a String: code
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 2
+ Please enter a String: number
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 2
+ Please enter a String: code
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 2
+ Please enter a String: list
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 1
+ list code number code line code ruby java python 
+ 
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 4
+ Please enter a String: tab
+ Please enter the Index value: 3
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 1
+ list code number tab code line code ruby java python 
+ 
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 5
+ Please enter a String: ruby
+ The results of contains true
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 5
+ Please enter a String: syntax
+ The results of contains false
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 6
+ Please enter a String: line
+ The results of indexOf 5
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 6
+ Please enter a String: syntax
+ The results of indexOf -1
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 1
+ list code number tab code line code ruby java python 
+ 
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 7
+ The results from remove null
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 1
+ code number tab code line code ruby java python 
+ 
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 8
+ The results from remove null
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 1
+ code number tab code line code ruby java 
+ 
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 9
+ Please enter the Index value: 6
+ The results from remove null
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 1
+ code number tab code line code java 
+ 
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 10
+ Please enter a String: code
+ The results of contains true
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 1
+ number tab code line code java 
+ 
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 11
+ Please enter a String: code
+ The results of contains true
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 1
+ number tab code line java 
+ 
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 13
+ List size: 5
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 12
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 1
+ Empty list
+ 
+ Please choose from the following:
+ 1) Print the list
+ 2) Create a BoxCar and addFirst
+ 3) Create a BoxCar and addLast
+ 4) Create a BoxCar, read and index and add -- at the index
+ 5) Create a BoxCar, check the list to see if the list contains the BoxCar
+ 6) Create a BoxCar, find the indexOf that BoxCar
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) Create a BoxCar and removeFirstOccurrence of that BoxCar
+ 11) Create a BoxCar and removeLastOccurrence of that BoxCar
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Choice: 14
+ Program ending
+ 
+  ----jGRASP: operation complete.
+ 

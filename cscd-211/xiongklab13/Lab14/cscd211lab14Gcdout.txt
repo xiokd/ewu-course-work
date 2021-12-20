@@ -1,0 +1,16 @@
+ 
+  ----jGRASP exec: java lab14.cscd211gcd.RecursionGCDMain
+ PASSED testGcd1and1
+ PASSED testGcd1and2
+ PASSED testGcd2and1
+ PASSED testGcd2and3
+ PASSED testGcd2and4
+ PASSED testGcd2and1000
+ PASSED testGcd3and1000
+ PASSED testGcd1000and3
+ PASSED testGcd1000and600
+ PASSED testGcd1001and991
+ PASSED testGcd1002and992
+ 
+  ----jGRASP: operation complete.
+ 

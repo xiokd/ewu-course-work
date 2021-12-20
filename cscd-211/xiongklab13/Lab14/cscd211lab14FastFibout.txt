@@ -1,0 +1,13 @@
+ 
+  ----jGRASP exec: java lab14.cscd211fastfib.RecursionFastFibonacciMain
+ PASSED testFastFibonacci0
+ PASSED testFastFibonacci1
+ PASSED testFastFibonacci2
+ PASSED testFastFibonacci3
+ PASSED testFastFibonacci4
+ PASSED testFastFibonacci5
+ PASSED testFastFibonacci10
+ PASSED testFastFibonacci40
+ 
+  ----jGRASP: operation complete.
+ 

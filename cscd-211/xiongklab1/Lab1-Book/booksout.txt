@@ -1,0 +1,20 @@
+Title: Operating Systems Concepts
+Author: Siblerschatz
+ISBN: 978048012874
+Pages: 972
+
+Title: Java Programming
+Author: Farrell
+ISBN: 9781285856919
+Pages: 994
+
+Title: Operating Systems Concepts
+Author: Siblerschatz
+ISBN: 9781119299677
+Pages: 1006
+
+Title: Operating Systems Concepts
+Author: Siblerschatz
+ISBN: 9780470128725
+Pages: 972
+

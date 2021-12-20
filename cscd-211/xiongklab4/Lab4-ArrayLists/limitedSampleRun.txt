@@ -1,0 +1,30 @@
+ 
+  ----jGRASP exec: java lab4.cscd211lab4.CSCD211Lab4
+ Enter the number of data members: 5
+ Enter a menu choice:
+ 1) Add a value to the ArrayList
+ 2) Delete a value from the ArrayList (by value)
+ 3) Delete a value from the ArrayList (by index/location)
+ 4) Display the ArrayList
+ 5) Compute the mean of the ArrayList
+ 6) Compute the median of the ArrayList
+ 7) Compute the midpoint of the ArrayList
+ 8) Compute the standard deviation of the ArrayList
+ 9) Quit
+ Choice --> 4
+ [42.807383363514, 72.85647034467299, 77.74416036454568, 39.88298952906227, 14.15097780097354]
+ 
+ Enter a menu choice:
+ 1) Add a value to the ArrayList
+ 2) Delete a value from the ArrayList (by value)
+ 3) Delete a value from the ArrayList (by index/location)
+ 4) Display the ArrayList
+ 5) Compute the mean of the ArrayList
+ 6) Compute the median of the ArrayList
+ 7) Compute the midpoint of the ArrayList
+ 8) Compute the standard deviation of the ArrayList
+ 9) Quit
+ Choice --> 9
+ 
+  ----jGRASP: operation complete.
+ 

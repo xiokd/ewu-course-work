@@ -1,0 +1,23 @@
+ 
+  ----jGRASP exec: java lab7.cscd211Lab7.CSCD211Lab7
+ Car Engine - Manufacturer: General Motors with HP of 137 output of 2
+ Truck Engine - Manufacturer: Ford with HP of 250 is a diesel engine output of 2
+ Car Engine - Manufacturer: Toyota with HP of 134 output of 2
+ Car Engine - Manufacturer: Ford with HP of 134 output of 2
+ Truck Engine - Manufacturer: Toyota with HP of 200 is NOT a diesel engine output of 5
+ 
+ Car Engine - Manufacturer: Ford with HP of 134
+ Car Engine - Manufacturer: Toyota with HP of 134
+ Car Engine - Manufacturer: General Motors with HP of 137
+ Truck Engine - Manufacturer: Toyota with HP of 200 is NOT a diesel engine
+ Truck Engine - Manufacturer: Ford with HP of 250 is a diesel engine
+ 
+ Car Engine - Manufacturer: Ford with HP of 134
+ Truck Engine - Manufacturer: Ford with HP of 250 is a diesel engine
+ Car Engine - Manufacturer: General Motors with HP of 137
+ Car Engine - Manufacturer: Toyota with HP of 134
+ Truck Engine - Manufacturer: Toyota with HP of 200 is NOT a diesel engine
+ 
+ 
+  ----jGRASP: operation complete.
+ 

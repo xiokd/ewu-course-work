@@ -1,0 +1,13 @@
+ 
+  ----jGRASP exec: java lab12.cscd211lab12.CSCD211Lab12
+ testFindLargestEmptyArray - Expected exception: IllegalArgumentException, array passed to findLargest was empty
+ testFindLargest1ItemArray - largest value is: 55
+ testFindLargest2ItemArray - largest value is: 66
+ testFindLargest3ItemArray - largest value is: 66
+ testFindLargest5ItemArray - largest value is: 2
+ testFindLargest10ItemArray - largest value is: 3
+ testFindLargest10ItemArrayAllSame - largest value is: 1
+ testFindLargest10ItemArrayAscending - largest value is: 10
+ 
+  ----jGRASP: operation complete.
+ 

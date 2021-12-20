@@ -1,0 +1,18 @@
+ 
+  ----jGRASP exec: java lab11.cscd211lab11.CSCD211Lab11
+ Count of 5s - Number: 515 - Count: 2
+ Count of 5s - Number: 5 - Count: 1
+ Count of 5s - Number: 123 - Count: 0
+ Count of 5s - Number: 55 - Count: 2
+ Count of 5s - Number: 5123 - Count: 1
+ Count of 5s - Number: 551235 - Count: 3
+ Count of 5s - Number: 551535 - Count: 4
+ Count of 5s - Number: 45751 - Count: 2
+ Count of 5s - Number: 555555 - Count: 6
+ Count of 5s - Number: 50501255 - Count: 4
+ Count of 5s - Number: 555756195 - Count: 5
+ Count of 5s - Number: 99999 - Count: 0
+ Count of 5s - Number: 99599 - Count: 1
+ 
+  ----jGRASP: operation complete.
+ 

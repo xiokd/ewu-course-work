@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"lab2.cscd211enums","l":"Color"},{"p":"lab2.cscd211comparators","l":"ColorComparator"},{"p":"lab2.cscd211lab2","l":"CSCD211Lab2"},{"p":"lab2.cscd211methods","l":"CSCD211Lab2Methods"},{"p":"lab2.cscd211classes","l":"Person"}]
