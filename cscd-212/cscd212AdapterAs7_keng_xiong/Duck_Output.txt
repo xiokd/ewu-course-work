@@ -1,0 +1,15 @@
+The Turkey says...
+Gobble gobble
+I'm flying a short distance
+
+The Duck says...
+Quack
+I'm flying
+
+The TurkeyAdapter says...
+Gobble gobble
+I'm flying a short distance
+I'm flying a short distance
+I'm flying a short distance
+I'm flying a short distance
+I'm flying a short distance

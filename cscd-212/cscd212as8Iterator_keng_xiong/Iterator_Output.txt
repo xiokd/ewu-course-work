@@ -1,0 +1,10 @@
+Students in Course via foreach loop, implicitly uses Iterator
+Nancy Ripplinger 3.14
+Tom Capaul 3.141
+Sponge Bob Square Pants 4.0
+Patrick Star 0.7
+Students in Course by manually using Iterator behaviors (next and hasNext)
+Nancy Ripplinger 3.14
+Tom Capaul 3.141
+Sponge Bob Square Pants 4.0
+Patrick Star 0.7

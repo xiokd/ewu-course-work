@@ -1,0 +1,19 @@
+Saruman knows about -
+	1 Hobbits
+	1 Elves
+	2 Dwarves
+	0 Humans
+
+Witch King knows about -
+	1 Hobbits
+	1 Elves
+	2 Dwarves
+	0 Humans
+
+Saruman was defeated!
+
+Witch King knows about -
+	4 Hobbits
+	2 Elves
+	2 Dwarves
+	100 Humans
