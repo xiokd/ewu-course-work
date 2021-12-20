@@ -1,0 +1,27 @@
+The goal of this program is to search an array numbers provided by a data set and return 3 values 
+to the user. Those values being a two indexes and the difference of their elements.
+
+When searching the array, recursion and linear walk methods are used. The values produced from the
+searches are then stored into class objects as integers.
+
+When viewing the intial call to the method in the program, the time cost can be viewed as T(n) 
+given a data set of size n. Inside the method when viewing it from top to bottom, the method
+first begins with condition checking and mathematical calculation for the middle index which can 
+be viewed as constant time operations and be labled as C1. Following the constant operation, there
+are two recursive calls to the same method however they are working with half the data set 
+resulting in time cost of T(n/2) for both recurive calls. After those recursive calls, a call
+to a linear walk method is made resulting in a time cost of O(n) because it is just searching
+linearly across a given set of data. Lastly, another set of condition checking is made and can
+viewed as a constant operation and labled as C2 for this method.
+
+The time cost for the method T(n) can be viewed as the following:
+T(n) = 2T(n/2) + O(n) + C1 + C2.
+
+This can be reduced down to:
+T(n) = 2T(n/2) + Cn
+
+Then again with consideration of the number of levels of the recursive calls:
+T(n) = Cnlog2n + Cn
+
+Resulting in the following:
+T(n) = O(nlogn)

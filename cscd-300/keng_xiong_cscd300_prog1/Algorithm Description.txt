@@ -1,0 +1,19 @@
+Using the similar concept of the standard binary search method, the methods used for the modified 
+binary search divides the array into halves to efficiently search a given array.
+
+To find the leftmost index, the binary search method is modified to where it will always 
+check the left side of the middle index for every time the array is divided doing additional 
+condition checking after the initial conditions have be checked first. To check the left side, 
+you subtract one from the middle index's number to recieve the index on the left side of it and 
+then compare element contained in that index to the user's desired number. Then adjust the high 
+and low index values accordingly.
+
+To find the rightmost index, a similar process as the leftmost index is applied. The process is 
+similar however instead of checking the left side of the middle index, you check the right.
+Following the same process as before, additional conditions are checked after the initial
+conditions are checked. To check the element on the right side of the middle index, you add
+one to the middle index's number and then compare the element in that index to the user's
+desired number. The high and low index values are then adjusted accordingly.
+
+The purpose of the modification of checking the neighboring indexes is to make sure they are 
+included in the range.
