@@ -1,0 +1,21 @@
+The program begins by prompting the user to enter a number between 1 and 7
+
+User input is assigned to a variable and is used to determine the day of the week to display
+
+Displays "Monday" if user input is 1
+Display "Tuesday" if user input is 2
+Displays "Wednesday" if user input is 3
+Displays "Thursday" if user input is 4
+Displays "Friday" if user input is 5
+Displays "Saturday" if user input is 6
+Displays "Sunday" if user input is 7
+
+
+Displays the message "Please enter a number within (1/7)" if user inputs number outside of the range
+
+Displays the message "Happy weekend" below the displayed day of the week only if the number is within the range 6 and 7
+
+The program ends by prompting the user if they wish to restart the program
+
+The program is restarted and looped back to the beginning if the user responds with "y"
+The program is closed if the user responds with "n"

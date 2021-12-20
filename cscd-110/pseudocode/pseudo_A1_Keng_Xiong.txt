@@ -1,0 +1,11 @@
+The program begins by prompting the user to enter two integers
+
+User input is then assigned to variables as an integer
+
+The assigned variables are then used for mathematical calculations
+
+Displays sum of the two numbers
+Displays the difference of the two numbers
+Displays the product of the two numbers
+Displays the result of the first number as it goes to the power of the second number
+Displays the dividend of the first number divided by the second number
