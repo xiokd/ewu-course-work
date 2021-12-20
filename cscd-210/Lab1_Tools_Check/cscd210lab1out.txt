@@ -1,0 +1,22 @@
+ 
+  ----jGRASP exec: java lab1.cscd210lab1.CSCD210Lab1
+ Please enter your name Keng Xiong
+ Please enter the number of credits you are taking 12
+ Welcome Keng Xiong
+ Good luck taking 12 credits
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab1.cscd210lab1.CSCD210Lab1
+ Please enter your name Keng Xiong
+ Please enter the number of credits you are taking 12.5
+ Exception in thread "main" java.util.InputMismatchException
+ 	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+ 	at java.base/java.util.Scanner.next(Scanner.java:1594)
+ 	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+ 	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+ 	at lab1.cscd210lab1.CSCD210Lab1.main(CSCD210Lab1.java:16)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 

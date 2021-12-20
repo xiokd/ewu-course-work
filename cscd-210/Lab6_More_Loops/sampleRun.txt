@@ -1,0 +1,92 @@
+ 
+  ----jGRASP exec: java lab6.cscd210lab6.CSCD210Lab6
+ Please enter a positive number -10
+ Please enter a positive number 0
+ Please enter a positive number 1
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even, odd and zeros in theNum
+ 3) Print the prime numbers from 2 up to and possibly including theNum
+ 4) Quit
+ Choice --> 22
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even, odd and zeros in theNum
+ 3) Print the prime numbers from 2 up to and possibly including theNum
+ 4) Quit
+ Choice --> 2
+ The number of even/odd/zeros in 1 are 0 - even, 1 - odd, and 0 - zero
+ 
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even, odd and zeros in theNum
+ 3) Print the prime numbers from 2 up to and possibly including theNum
+ 4) Quit
+ Choice --> 3
+ No Primes Found
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even, odd and zeros in theNum
+ 3) Print the prime numbers from 2 up to and possibly including theNum
+ 4) Quit
+ Choice --> 1
+ Please enter a positive number 25
+ 
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even, odd and zeros in theNum
+ 3) Print the prime numbers from 2 up to and possibly including theNum
+ 4) Quit
+ Choice --> 2
+ The number of even/odd/zeros in 25 are 1 - even, 1 - odd, and 0 - zero
+ 
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even, odd and zeros in theNum
+ 3) Print the prime numbers from 2 up to and possibly including theNum
+ 4) Quit
+ Choice --> 3
+ 2 3 5 7 11 13 17 19 23 
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even, odd and zeros in theNum
+ 3) Print the prime numbers from 2 up to and possibly including theNum
+ 4) Quit
+ Choice --> 1
+ Please enter a positive number 101
+ 
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even, odd and zeros in theNum
+ 3) Print the prime numbers from 2 up to and possibly including theNum
+ 4) Quit
+ Choice --> 2
+ The number of even/odd/zeros in 101 are 0 - even, 2 - odd, and 1 - zero
+ 
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even, odd and zeros in theNum
+ 3) Print the prime numbers from 2 up to and possibly including theNum
+ 4) Quit
+ Choice --> 3
+ 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 101 
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even, odd and zeros in theNum
+ 3) Print the prime numbers from 2 up to and possibly including theNum
+ 4) Quit
+ Choice --> 4
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 

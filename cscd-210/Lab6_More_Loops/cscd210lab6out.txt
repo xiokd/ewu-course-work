@@ -1,0 +1,51 @@
+ 
+  ----jGRASP exec: java lab6.cscd210lab6.CSCD210Lab6
+ Please enter a positive number -10
+ Please enter a positive number 0
+ Please enter a positive number 7
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even, odd and zeros in theNum
+ 3) Print the prime numbers from 2 up to and possibly including theNum
+ 4) Quit
+ Choice --> 1
+ 
+ Please enter a new positive number 24675900
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even, odd and zeros in theNum
+ 3) Print the prime numbers from 2 up to and possibly including theNum
+ 4) Quit
+ Choice --> 2
+ 
+ The number of even/odd/zeros in 24675900 are 3 - even, 3 - odd, 2 - zeros.
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even, odd and zeros in theNum
+ 3) Print the prime numbers from 2 up to and possibly including theNum
+ 4) Quit
+ Choice --> 1
+ 
+ Please enter a new positive number 101
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even, odd and zeros in theNum
+ 3) Print the prime numbers from 2 up to and possibly including theNum
+ 4) Quit
+ Choice --> 3
+ 
+ 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 101 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even, odd and zeros in theNum
+ 3) Print the prime numbers from 2 up to and possibly including theNum
+ 4) Quit
+ Choice --> 4
+ 
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 

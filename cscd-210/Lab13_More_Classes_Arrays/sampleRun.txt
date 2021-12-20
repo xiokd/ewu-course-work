@@ -1,0 +1,67 @@
+ 
+  ----jGRASP exec: java lab13.cscd210lab13.CSCD210Lab13
+ Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+ 	at lab13.cscd210lab13.CSCD210Lab13.main(CSCD210Lab13.java:20)
+ 
+  ----jGRASP wedge: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab13.cscd210lab13.CSCD210Lab13 input.txt
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Quit
+ Choice --> 1
+ [Tom Capaul - Pearson, Billy Bob Glunkerson - Pearson, Paul Schimpf - Wiley, Alex Sue Solveig Boyer - Wiley, Daniel Steiner - Wiley, Stu Steiner - Self]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Quit
+ Choice --> 2
+ Please enter the authors first name Stu
+ Please enter the authors last name Stein
+ Please enter the publisher Wiley
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Quit
+ Choice --> 1
+ [Tom Capaul - Pearson, Billy Bob Glunkerson - Pearson, Paul Schimpf - Wiley, Alex Sue Solveig Boyer - Wiley, Stu Stein - Wiley, Daniel Steiner - Wiley, Stu Steiner - Self]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Quit
+ Choice --> 3
+ Please enter the authors first name Stu
+ Please enter the authors last name Stein
+ Please enter the publisher Wiley
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Quit
+ Choice --> 1
+ [Tom Capaul - Pearson, Billy Bob Glunkerson - Pearson, Paul Schimpf - Wiley, Alex Sue Solveig Boyer - Wiley, Daniel Steiner - Wiley, Stu Steiner - Self]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Quit
+ Choice --> 3
+ Please enter the authors first name Stu
+ Please enter the authors last name Stein
+ Please enter the publisher Wiley
+ Item not found in the array
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Quit
+ Choice --> 4
+ 
+  ----jGRASP: operation complete.
+ 

@@ -1,0 +1,106 @@
+ 
+  ----jGRASP exec: java lab4.cscd210lab4.CSCD210Lab4
+ Welcome to the Tuition Calculator Program
+ How many total credits are you taking? 9
+ Are you a WA resident (Y/N)? Y
+ Are you a graduate student (Yes/No)? No
+ What percentage increase? 11.5
+ Results:
+  
+ An undergraduate student taking 9 credits pays $218.09 per credit for a total of $1962.81
+ With an increase in tuition of 11.5% per credit tuition goes up to $243.17 per credit for a total of $2188.53
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab4.cscd210lab4.CSCD210Lab4
+ Welcome to the Tuition Calculator Program
+ How many total credits are you taking? 11
+ Are you a WA resident (Y/N)? y
+ Are you a graduate student (Yes/No)? NO
+ What percentage increase? 11.5
+ Results:
+  
+ An undergraduate student taking 11 credits pays a fee of $2180.91
+ With an increase in tuition of 11.5% the cost of tuition would be $2431.71
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab4.cscd210lab4.CSCD210Lab4
+ Welcome to the Tuition Calculator Program
+ How many total credits are you taking? 18
+ Are you a WA resident (Y/N)? N
+ Are you a graduate student (Yes/No)? yes
+ What percentage increase? 11.5
+ Results:
+  
+ A non-resident graduate student taking 18 credits pays a fee of $9071.39
+ With an increase in tuition of 11.5% the cost of tuition would be $10114.60
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab4.cscd210lab4.CSCD210Lab4
+ Welcome to the Tuition Calculator Program
+ How many total credits are you taking? 24
+ Are you a WA resident (Y/N)? N
+ Are you a graduate student (Yes/No)? Yes
+ What percentage increase? 11.5
+ Results:
+  
+ A graduate student taking 24 credits pays a fee of $9071.39 and an extra fee per credit of $885.11 for a total of $14382.05
+ With an increase in tuition of 11.5% the cost of tuition would be $10114.60 and an extra fee per credit of $986.90 for a total of $16035.99
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab4.cscd210lab4.CSCD210Lab4
+ Welcome to the Tuition Calculator Program
+ How many total credits are you taking? 17
+ Are you a WA resident (Y/N)? Y
+ Are you a graduate student (Yes/No)? No
+ What percentage increase? 11.5
+ Results:
+  
+ An undergraduate student taking 17 credits pays a fee of $2180.91
+ With an increase in tuition of 11.5% the cost of tuition would be $2431.71
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab4.cscd210lab4.CSCD210Lab4
+ Welcome to the Tuition Calculator Program
+ How many total credits are you taking? 25
+ Are you a WA resident (Y/N)? Y
+ Are you a graduate student (Yes/No)? Yes
+ What percentage increase? 11.5
+ Results:
+  
+ A graduate student taking 25 credits pays a fee of $3907.11 and an extra fee per credit of $368.48 for a total of $6486.47
+ With an increase in tuition of 11.5% the cost of tuition would be 4356.43 and an extra fee per credit of $410.86 for a total of $7232.41
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab4.cscd210lab4.CSCD210Lab4
+ Welcome to the Tuition Calculator Program
+ How many total credits are you taking? 7
+ Are you a WA resident (Y/N)? no
+ Are you a graduate student (Yes/No)? Yes
+ What percentage increase? 11.5
+ Results:
+  
+ A non-resident graduate student taking 7 credits pays $907.14 per credit for a total of $6349.98
+ With an increase in tuition of 11.5% per credit tuition goes up to $1011.46 per credit for a total of $7080.23
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab4.cscd210lab4.CSCD210Lab4
+ Welcome to the Tuition Calculator Program
+ How many total credits are you taking? 26
+ Are you a WA resident (Y/N)? Y
+ Are you a graduate student (Yes/No)? no
+ What percentage increase? 11.5
+ Results:
+  
+ Exception in thread "main" java.lang.RuntimeException: Credits cannot be 0 or negative or greater than 25
+ 	at lab4.cscd210lab4.CSCD210Lab4.main(CSCD210Lab4.java:209)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 

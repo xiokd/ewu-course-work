@@ -1,0 +1,12 @@
+ 
+  ----jGRASP exec: java lab2.cscd210lab2.CSCD210Lab2
+ Please enter the winning time of the race: 15.00
+ The person was traveling at a rate of:
+ 6.67 meters per second,
+ 21.87 feet per second,
+ 24.00 kilometers per hour,
+ 14.91 miles per hour,
+ It would take 4.02 minutes for the person to run one mile.
+ 
+  ----jGRASP: operation complete.
+ 

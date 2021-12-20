@@ -1,0 +1,16 @@
+ 
+  ----jGRASP exec: java lab11.cscd210lab11.CSCD210Lab11
+ Clock 3 12:45:15
+ Clock 3 Hour 12
+ Clock 3 Minutes:Seconds 45:15
+ 
+ Clock 1 12:00:00
+ Clock 1 after setting hours by   3 hours 15:00:00
+ Clock 1 after setting hours by  25 hours 16:00:00
+ 
+ Clock 2 23:59:00
+ Clock 2 after setting minutes by  20 minutes 00:19:00
+ Clock 2 after setting minutes by 170 minutes 03:09:00
+ 
+  ----jGRASP: operation complete.
+ 

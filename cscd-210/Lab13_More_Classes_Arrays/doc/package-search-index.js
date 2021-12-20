@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"lab13.cscd210classes"},{"l":"lab13.cscd210lab13"},{"l":"lab13.cscd210methods"},{"l":"lab13.cscd210utils"}]

@@ -1,0 +1,93 @@
+ 
+  ----jGRASP exec: java lab7.cscd210lab7.CSCD210Lab7
+ Please enter a positive number -10
+ Please enter a positive number 0
+ Please enter a positive number 10
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reversed order
+ 6) Quit
+ Choice --> 1
+ 
+ Please enter a positive number 2255000
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reversed order
+ 6) Quit
+ Choice --> 2
+ 
+ The number of even/odd/zeros in 2255000 are 2 - even, 2 - odd, 3 - zeros.
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reversed order
+ 6) Quit
+ Choice --> 3
+ 
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reversed order
+ 6) Quit
+ Choice --> 1
+ 
+ Please enter a positive number 2
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reversed order
+ 6) Quit
+ Choice --> 4
+ 
+ 2.5
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reversed order
+ 6) Quit
+ Choice --> 1
+ 
+ Please enter a positive number 557788
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reversed order
+ 6) Quit
+ Choice --> 5
+ 
+ 557788 reversed is 887755
+ 
+ Please choose from the following
+ 1) Enter a new number
+ 2) Print the number of even/odd/zeros
+ 3) Print if number is light or heavy
+ 4) Print the value of E
+ 5) Print the number in reversed order
+ 6) Quit
+ Choice --> 6
+ 
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 

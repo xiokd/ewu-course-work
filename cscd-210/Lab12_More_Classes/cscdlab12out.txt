@@ -1,0 +1,50 @@
+ 
+  ----jGRASP exec: java lab12.cscd210lab12.CSCD210Lab12
+ Please enter the name of the file input.txt
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Print the array to a file
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 1
+ bass - 1.11
+ brook trout - 3.21
+ cutthroat trout - 5.68
+ ling - 0.25
+ rainbow trout - 1.23
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Print the array to a file
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 2
+ Enter file name: 
+ Enter file name: output.txt
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Print the array to a file
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 3
+ Please enter a number between 0 and 4 1
+ Please enter a number between 0 and 4 1
+ The two fish are equal in both name and weight
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Print the array to a file
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 3
+ Please enter a number between 0 and 4 1
+ Please enter a number between 0 and 4 2
+ The two fish are not equal
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Print the array to a file
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 4
+ Exiting
+ 
+  ----jGRASP: operation complete.
+ 

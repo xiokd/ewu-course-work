@@ -1,0 +1,5 @@
+rainbow trout, 1.23
+brook trout, 3.21
+bass, 1.11
+cutthroat trout, 5.68
+ling, 0.25

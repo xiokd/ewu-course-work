@@ -1,0 +1,143 @@
+ 
+  ----jGRASP exec: java lab9.cscd210lab9.CSCD210Lab9
+ Please enter a positive number greater than zero: -10
+ Please enter a positive number greater than zero: 0
+ Please enter a positive number greater than zero: 4
+ Enter the 4 numbers:
+ 2
+ 5
+ 9
+ 10
+ Menu choices are:
+ 1.) Add a value to the array (by value)
+ 2.) Delete a value from the array (by value)
+ 3.) Display the array
+ 4.) Compute the mean of the array
+ 5.) Compute the median of the array
+ 6.) Compute the midpoint of the array
+ 7.) Compute the standard deviation of the array
+ 8.) Compute the mode of the array
+ 9.) Quit
+ 
+ Enter your choice: 1
+ Please enter an integer: 12
+ Menu choices are:
+ 1.) Add a value to the array (by value)
+ 2.) Delete a value from the array (by value)
+ 3.) Display the array
+ 4.) Compute the mean of the array
+ 5.) Compute the median of the array
+ 6.) Compute the midpoint of the array
+ 7.) Compute the standard deviation of the array
+ 8.) Compute the mode of the array
+ 9.) Quit
+ 
+ Enter your choice: 2
+ Enter the number you want removed from the array: 2
+ Menu choices are:
+ 1.) Add a value to the array (by value)
+ 2.) Delete a value from the array (by value)
+ 3.) Display the array
+ 4.) Compute the mean of the array
+ 5.) Compute the median of the array
+ 6.) Compute the midpoint of the array
+ 7.) Compute the standard deviation of the array
+ 8.) Compute the mode of the array
+ 9.) Quit
+ 
+ Enter your choice: 3
+ [ 2 5 9 10 12 ]
+ Menu choices are:
+ 1.) Add a value to the array (by value)
+ 2.) Delete a value from the array (by value)
+ 3.) Display the array
+ 4.) Compute the mean of the array
+ 5.) Compute the median of the array
+ 6.) Compute the midpoint of the array
+ 7.) Compute the standard deviation of the array
+ 8.) Compute the mode of the array
+ 9.) Quit
+ 
+ Enter your choice: 4
+ The results for the Mean are: 7.000000 
+ Menu choices are:
+ 1.) Add a value to the array (by value)
+ 2.) Delete a value from the array (by value)
+ 3.) Display the array
+ 4.) Compute the mean of the array
+ 5.) Compute the median of the array
+ 6.) Compute the midpoint of the array
+ 7.) Compute the standard deviation of the array
+ 8.) Compute the mode of the array
+ 9.) Quit
+ 
+ Enter your choice: 5
+ The results for the median are: 9.000000 
+ Menu choices are:
+ 1.) Add a value to the array (by value)
+ 2.) Delete a value from the array (by value)
+ 3.) Display the array
+ 4.) Compute the mean of the array
+ 5.) Compute the median of the array
+ 6.) Compute the midpoint of the array
+ 7.) Compute the standard deviation of the array
+ 8.) Compute the mode of the array
+ 9.) Quit
+ 
+ Enter your choice: 6
+ The results for the Midpoint are: 7.000000 
+ Menu choices are:
+ 1.) Add a value to the array (by value)
+ 2.) Delete a value from the array (by value)
+ 3.) Display the array
+ 4.) Compute the mean of the array
+ 5.) Compute the median of the array
+ 6.) Compute the midpoint of the array
+ 7.) Compute the standard deviation of the array
+ 8.) Compute the mode of the array
+ 9.) Quit
+ 
+ Enter your choice: 7
+ The results for the Standard Deviation are: 4.092676 
+ Menu choices are:
+ 1.) Add a value to the array (by value)
+ 2.) Delete a value from the array (by value)
+ 3.) Display the array
+ 4.) Compute the mean of the array
+ 5.) Compute the median of the array
+ 6.) Compute the midpoint of the array
+ 7.) Compute the standard deviation of the array
+ 8.) Compute the mode of the array
+ 9.) Quit
+ 
+ Enter your choice: 8
+ The results for the Mode are: 0.000000 
+ Menu choices are:
+ 1.) Add a value to the array (by value)
+ 2.) Delete a value from the array (by value)
+ 3.) Display the array
+ 4.) Compute the mean of the array
+ 5.) Compute the median of the array
+ 6.) Compute the midpoint of the array
+ 7.) Compute the standard deviation of the array
+ 8.) Compute the mode of the array
+ 9.) Quit
+ 
+ Enter your choice: -10
+ Menu choices are:
+ 1.) Add a value to the array (by value)
+ 2.) Delete a value from the array (by value)
+ 3.) Display the array
+ 4.) Compute the mean of the array
+ 5.) Compute the median of the array
+ 6.) Compute the midpoint of the array
+ 7.) Compute the standard deviation of the array
+ 8.) Compute the mode of the array
+ 9.) Quit
+ 
+ Enter your choice: 9
+ All Done
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 

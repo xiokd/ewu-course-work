@@ -1,0 +1,61 @@
+ 
+  ----jGRASP exec: java lab3.cscd210lab3.CSCD210Lab3
+ Please enter the beginning meter value 50
+ Please enter the ending meter value 100000050
+ Please enter the customer code r
+ Customer code: r
+ Meter beginning reading: 50
+ Meter ending reading: 100000050
+ Gallons of water used by customer: 100000000
+ Amount billed to customer: $50015.00
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab3.cscd210lab3.CSCD210Lab3
+ Please enter the beginning meter value 50
+ Please enter the ending meter value 100000050
+ Please enter the customer code c
+ Customer code: c
+ Meter beginning reading: 50
+ Meter ending reading: 100000050
+ Gallons of water used by customer: 100000000
+ Amount billed to customer: $3000.00
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab3.cscd210lab3.CSCD210Lab3
+ Please enter the beginning meter value 50
+ Please enter the ending meter value 3900050
+ Please enter the customer code i
+ Customer code: i
+ Meter beginning reading: 50
+ Meter ending reading: 3900050
+ Gallons of water used by customer: 3900000
+ Amount billed to customer: $1078.00
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab3.cscd210lab3.CSCD210Lab3
+ Please enter the beginning meter value 50
+ Please enter the ending meter value 4100050
+ Please enter the customer code i
+ Customer code: i
+ Meter beginning reading: 50
+ Meter ending reading: 4100050
+ Gallons of water used by customer: 4100000
+ Amount billed to customer: $2041.00
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab3.cscd210lab3.CSCD210Lab3
+ Please enter the beginning meter value 50
+ Please enter the ending meter value 11000050
+ Please enter the customer code i
+ Customer code: i
+ Meter beginning reading: 50
+ Meter ending reading: 11000050
+ Gallons of water used by customer: 11000000
+ Amount billed to customer: $30000.00
+ 
+  ----jGRASP: operation complete.
+ 

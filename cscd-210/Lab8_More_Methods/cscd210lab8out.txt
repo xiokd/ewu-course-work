@@ -1,0 +1,34 @@
+ 
+  ----jGRASP exec: java lab8.cscd210lab8.CSCD210Lab8
+ Please enter your name: Keng
+ Please enter your height: 70
+ Please enter your weight: 170
+ Keng with a weight of 170.000000 and a height of 70.000000, your BMI is 24.389796 you are normal weight.
+ Would you like to calculate another BMI (Yes/No): yes
+ 
+ Please enter your name: John
+ Please enter your height: 89
+ Please enter your weight: 185
+ John with a weight of 185.000000 and a height of 89.000000, your BMI is 16.419013 you are underweight.
+ Would you like to calculate another BMI (Yes/No): YES
+ 
+ Please enter your name: Sarah
+ Please enter your height: 65
+ Please enter your weight: 130
+ Sarah with a weight of 130.000000 and a height of 65.000000, your BMI is 21.630769 you are normal weight.
+ Would you like to calculate another BMI (Yes/No): Yes
+ 
+ Please enter your name: 
+ Please enter your name: 
+ Please enter your name: Jerry
+ Please enter your height: 76
+ Please enter your weight: 190
+ Jerry with a weight of 190.000000 and a height of 76.000000, your BMI is 23.125000 you are normal weight.
+ Would you like to calculate another BMI (Yes/No): nope
+ Would you like to calculate another BMI (Yes/No): yess
+ Would you like to calculate another BMI (Yes/No): no
+ 
+ Good bye
+ 
+  ----jGRASP: operation complete.
+ 
